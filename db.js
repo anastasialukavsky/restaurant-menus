@@ -9,6 +9,5 @@ const db = new Sequelize({
 });
 
 module.exports = {
-    // sequelize,
     db
 };
